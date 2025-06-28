@@ -1,38 +1,4 @@
 const topics = {
-  "Present Simple Tense": [
-    {
-      title: "Translate to Hindi",
-      questions: [
-        { q: "I go to school every day." },
-        { q: "She loves to sing." },
-        { q: "They play football." },
-        { q: "We eat dinner at 7 PM." },
-        { q: "He reads books." }
-      ]
-    },
-    {
-      title: "Answer the Question",
-      questions: [
-        { q: "What do you do every morning?" },
-        { q: "Where do you live?" },
-        { q: "Do you like mangoes?" }
-      ]
-    },
-    {
-      title: "Create Sentence Using Word",
-      questions: [
-        { q: "Walk" },
-        { q: "Study" },
-        { q: "Work" }
-      ]
-    },
-    {
-      title: "Create 3-5 Questions on Given Topic",
-      questions: [
-        { q: "Daily routine" }
-      ]
-    }
-  ],
 
   "Present Simple Tense (is/am/are)": [
     {
@@ -69,6 +35,42 @@ const topics = {
     }
   ],
 
+  "Present Simple Tense": [
+    {
+      title: "Translate to Hindi",
+      questions: [
+        { q: "I go to school every day." },
+        { q: "She loves to sing." },
+        { q: "They play football." },
+        { q: "We eat dinner at 7 PM." },
+        { q: "He reads books." }
+      ]
+    },
+    {
+      title: "Answer the Question",
+      questions: [
+        { q: "What do you do every morning?" },
+        { q: "Where do you live?" },
+        { q: "Do you like mangoes?" }
+      ]
+    },
+    {
+      title: "Create Sentence Using Word",
+      questions: [
+        { q: "Walk" },
+        { q: "Study" },
+        { q: "Work" }
+      ]
+    },
+    {
+      title: "Create 3-5 Questions on Given Topic",
+      questions: [
+        { q: "Daily routine" }
+      ]
+    }
+  ],
+
+  
   "Present Continuous Tense": [
     {
       title: "Translate to Hindi",
